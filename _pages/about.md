@@ -10,18 +10,18 @@ redirect_from:
 This is the website of a 20 year old college student who hopes that his code will make a difference in the world.
 
 My hobbies:
-  Taking walks
+    Taking walks
   
-  Reading Wikipedia
+    Reading Wikipedia
   
-  Looking at lists
+    Looking at lists
   
-  Checking the list two times
+    Checking the list two times
   
-  Watching MMA, Basketball
+    Watching MMA, Basketball
   
-  Playing only Basketball, not MMA
+    Playing only Basketball, not MMA
   
-  Spending time with family and friends
+    Spending time with family and friends
   
-  Watching Friends :)
+    Watching Friends :)
