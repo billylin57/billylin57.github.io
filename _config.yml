@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Billy Lin"
-  avatar           : "photoBilly.jpg"
+  avatar           : ![Me](/photoBilly.jpg)
   bio              : "A Vanouverite studying Computer Science at the University of Berkeley, California. Interested in Health and Tech."
   location         : "Berkeley, California"
   employer         : "Madsen Lab"
