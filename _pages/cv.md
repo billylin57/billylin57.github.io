@@ -20,11 +20,6 @@ Work experience
   * Duties included: Initiating the analysis of the Good Food Purchasing Program data, providing insights for data analysis, coming up with visualisations for the tens of thousands of data entries. Used Pandas and Numpy for analysis
   * Supervisor: Professor Kris Madsen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Top Skills
 ======
 * Java 1
@@ -39,5 +34,5 @@ Top Skills
 Service and leadership
 ======
 * Officer of Business Partnerships at Berkeley Model United Nations
-  -Manage the business partnerships of the 90 person club that holds an annual conference with over 2000 attendees
-  -Communicate frequently with Marriott Hotels, Pronto Transporation, National Council on U.S.-Arab Relations, United Airlines to manage conference duties and discounts for our delegates
+  * Manage the business partnerships of the 90 person club that holds an annual conference with over 2000 attendees
+  * Communicate frequently with Marriott Hotels, Pronto Transporation, National Council on U.S.-Arab Relations, United Airlines to manage conference duties and discounts for our delegates
