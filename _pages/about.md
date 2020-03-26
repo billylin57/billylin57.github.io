@@ -9,7 +9,7 @@ redirect_from:
 ---
 This is the website of a 20 year old college student who hopes that his code will make a difference in the world.
 
-My hobbies:
+**My hobbies:
 
 Taking walks
 
