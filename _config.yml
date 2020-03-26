@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Billy Lin's Website"
+title                    : "Billy Lin / Website"
 title_separator          : "-"
 name                     : &name "Billy Lin"
 description              : &description "Computer scientist at the intersection of health and tech"
