@@ -33,6 +33,6 @@ Top Skills
 
 Service and leadership
 ======
-* Officer of Business Partnerships at Berkeley Model United Nations
+* Vice President of Business Partnerships at Berkeley Model United Nations
   * Manage the business partnerships of the 90 person club that holds an annual conference with over 2000 attendees
   * Communicate frequently with Marriott Hotels, Pronto Transporation, National Council on U.S.-Arab Relations, United Airlines to manage conference duties and discounts for our delegates
