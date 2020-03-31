@@ -4,15 +4,6 @@ excerpt: "This is a list of businesses and organizations I have negotiated partn
 collection: portfolio
 ---
 
----
-layout: archive
-title: "Partnerships Negotiated"
-permalink: /partnerships/
-author_profile: true
-redirect_from:
-  - /partnerships
----
-
 {% include base_path %}
 
 Hotels (Secured Discounts and Room Blocks for delegates)
