@@ -4,8 +4,6 @@ excerpt: "This is a list of businesses and organizations I have negotiated partn
 collection: portfolio
 ---
 
-{% include base_path %}
-
 Hotels (Secured Discounts and Room Blocks for delegates)
 =====
 * Marriott Hotels
@@ -20,18 +18,18 @@ Transportation Groups (Secured Discounts and Access for delegates)
 * Pronto Transportation
 * United Airlines
 
-Schools
+Schools (Partnered with to Initiate BMUN Malta)
 =====
 * QSI International Schools
 
-Conferences
+Conferences (Cross Promotion, Competition Initiative, Staffing)
 =====
 * Canadian High School Model United Nations (CANADA)
 * Los Angeles Model United Nations (US)
 * WE Model United Nations Expo (CHINA)
 * National Council on U.S.-Arab Relations (US)
 
-Other Organizations
+Other Organizations (Secured monetary aid for food, venue, and other costs for BMUN Malta)
 =====
 * Corporate Citizenship for Responsible Enterprises
 * Action Planet
