@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Partnerships Negotiated"
-permalink: /Partnerships/
+permalink: /partnerships/
 author_profile: true
 redirect_from:
-  - /Partnerships
+  - /partnerships
 ---
 
 {% include base_path %}
