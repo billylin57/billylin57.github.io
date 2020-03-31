@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Partnerships Negotiated"
+excerpt: "This is a list of businesses and organizations I have negotiated partnerships with as the VP of Business Partnerships for Berkeley Model United Nations."
 collection: portfolio
 ---
 
