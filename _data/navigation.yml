@@ -7,6 +7,9 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
+  - title: "Partnerships"
+    url: /partnerships/
+    
   - title: "CV"
     url: /cv/
     
