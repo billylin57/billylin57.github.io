@@ -39,3 +39,9 @@ Service and leadership
   * University of California, Berkeley
   * Manage the business partnerships of the 90 person club that holds an annual conference with over 2000 attendees
   * Communicate frequently with Marriott Hotels, Pronto Transporation, National Council on U.S.-Arab Relations, United Airlines, and more to manage conference duties and discounts for our delegates
+  
+* Spring 2019-Winter 2019: Vice President of Recruitment at Delta Sigma Phi
+  * University of California, Berkeley
+  * Manage the recruitment process for my fraternity
+  * Organize events for Potential New Members to enjoy
+  * Communicate with fellow brothers and executive board to coordinate meetings
