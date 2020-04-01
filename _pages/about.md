@@ -19,9 +19,9 @@ Peer Mediators during Recess and Lunchtime act as supervisors and leaders in cas
 
 From my elementary school teachers, I learned that there were at least two sides to every conflict, and resolving the conflict requires understanding all sides of it. This is how I have learned about the importance of empathy and compromise: in the face of conflict at a dusty playground. However, the importance of what I learned was not lost.
 
-A few years later in high school, I would use these same lessons to manage my ace Trivia team, create Resolutions in Model United Nations, and eventually create and manage our very own MUN conference. I would even use these skills when I was a swim instructor for kids - this child isn't biting me because he wishes to cause me unimaginable pain; rather, he is probably scared of the water and hesitant to get his hair wet. 
+A few years later in high school, I would use these same lessons to manage my ace Trivia team, create Resolutions in Model United Nations, and eventually create and manage our very own MUN conference. I would even use these skills when I was a swim instructor for kids - this child isn't biting me because he pines for human flesh or because he wishes to cause me unimaginable pain; rather, he is probably scared of the water and hesitant to get his hair wet. 
 
-A few more years, and now I am in college. I am finding value in these lessons still. From being the Vice President of Recruitment of my fraternity, stressing about school, and being the Vice President of Business Partnerships at Berkeley Model United Nations, there seems to be more adversity than ever before to manage and find common ground in. Even coding requires some empathy. 
+A few more years, and now I am in college. I am finding value in these lessons still. From being the Vice President of Recruitment of my fraternity, working collabortively on a massive analytical study on the ethics of American school lunches, stressing about school, and being the Vice President of Business Partnerships at Berkeley Model United Nations, there seems to be more adversity than ever before to manage and find common ground in. Even coding requires some empathy. 
 
 "Put yourself in the place of a computer. How would this command make you feel? What would YOU do?"
 
