@@ -24,5 +24,6 @@ A few years later in high school, I would use these same lessons to manage my ac
 A few more years, and now I am in college. I am finding value in these lessons still. From being the Vice President of Recruitment of my fraternity, stressing about school, and being the Vice President of Business Partnerships at Berkeley Model United Nations, there seems to be more adversity than ever before to manage and find common ground in. Even coding requires some empathy. 
 
 "Put yourself in the place of a computer. How would this command make you feel? What would YOU do?"
+
 Something tells me that this is how life is going to be: a constant struggle to find common ground with other parties to resolve conflicts of understanding. Thankfully, I've been preparing for it.
 
