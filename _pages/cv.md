@@ -22,17 +22,20 @@ Work experience
 
 Top Skills
 ======
-* Java 1
-* Python 2
-  * NumPy 2.1
-  * Pandas 2.2
-  * PyTorch 2.3
-* Git 3
-* Business Partnerships 4
-* Communication 5
+* Java 
+* Python 
+  * NumPy 
+  * Pandas 
+  * PyTorch 
+* Git 
+* Public Speaking and Communication
+* Leadership 
+* Business Partnerships 
+
 
 Service and leadership
 ======
-* Vice President of Business Partnerships at Berkeley Model United Nations
+* Spring 2019 - Present: Vice President of Business Partnerships at Berkeley Model United Nations
+  * University of California, Berkeley
   * Manage the business partnerships of the 90 person club that holds an annual conference with over 2000 attendees
   * Communicate frequently with Marriott Hotels, Pronto Transporation, National Council on U.S.-Arab Relations, United Airlines, and more to manage conference duties and discounts for our delegates
