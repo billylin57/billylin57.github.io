@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Billy Lin / Negotiator"
+title                    : "Billy Lin / Finding Compromise"
 title_separator          : "-"
 name                     : &name "Billy Lin"
 description              : &description "Computer scientist at the intersection of policy-making and tech"
