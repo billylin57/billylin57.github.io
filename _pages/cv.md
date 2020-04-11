@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Computer Science, University of California, Berkeley, Class of 2021 (Expected)
-* Valedictorian, Burnaby North Secondary School, Class of 2017
+* Valedictorian, Burnaby North Secondary School, Vancouver, Class of 2017
 
 Work experience
 ======
