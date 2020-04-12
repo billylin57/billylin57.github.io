@@ -10,11 +10,12 @@ This is a list of all the sitcoms I love along with my favorite character from e
   * Favorite episode: My Funky Valentine (S1 E15)
   
   
+
 * Seinfeld (Elaine Benes, because the blooper reel with JLD is very funny)
 
   * Favorite episode: The Parking Garage (S3 E6)
   
-  
+
 * Friends (Chandler Bing)
 
   * Favorite episode: The One Where Ross is Fine (S10 E2)
