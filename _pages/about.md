@@ -20,7 +20,8 @@ I began college working as a [scribe for the family med clinic](https://github.c
 
 I started coding in the Summer of 2019 by enrolling in the infamous beginner Computer Science classes at UC Berkeley. Since then, I've made my own Version Control System called [**Gitlet**](https://github.com/billylin57/gitlet2) (Java), a Scandanavian board game called **Tablut** complete with **its own AI (Java)**, and analyzed the **food purchasing patterns of thousands of high schools** across the country using tools **Pandas and NumPy (Python) with [Dr. Kris Madsen](https://publichealth.berkeley.edu/people/kristine-madsen/)** and the team from [Good Food Purchasing Program](https://goodfoodpurchasing.org). I know that I have much to learn in this field, but I deeply enjoy learning as much as I can and seeing the positive effects of what I can create. Public speaking and event organization are some of my other strengths - if you wish to see my full resume click [here!](https://github.com/billylin57/billylin57.github.io/blob/master/files/Billy%20Lin%20RESUME.pdf)
 
-**Some less serious stuff**
+**Some less serious stuff!**
+
 I enjoy writing stuff that I think is funny, [trivia (my grade 10 trivia team grinning in our silver medals](https://github.com/billylin57/billylin57.github.io/blob/master/images/trivia%20for%20website.jpg), [sitcoms](https://billylin57.github.io/portfolio/sitcoms/), jazz music through the ages, basketball, watching MMA, reading Wikipedia, playing card games, learning cool new tricks when coding, international relations, and public speaking. 
 
 
