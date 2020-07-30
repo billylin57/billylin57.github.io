@@ -18,8 +18,10 @@ I began college a pre-medicine student working as a [scribe for the family med c
 
 **Gitlet - Java, Git**
  • A working version of Git “Lite” with Java, which is a Version Control System with the basic commands of Git, such as Add, Commit, Branch, Checkout, Merge, and more. Uses SHA-1 encoding, file serialization and deserialization, and data structure algorithms.
+ 
 **Predicting Housing Prices - Python**
  • Used Feature Engineering, One-Hot Encoding, and a Linear Regression model to predict sale prices based on predictors like total bathrooms, fireplace quality, garage area, and more. 
+ 
 **RISC-V CPU - Logisim, RISC-V**
  • A working RISC-V pipelined CPU built entirely in Logisim, able to interpret >50 unique commands, including Load, Store, Branch, and Jump instructions.
 
